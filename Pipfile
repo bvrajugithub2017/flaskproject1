@@ -8,6 +8,8 @@ pyscopg2 = "*"
 psycopg2-binary = "*"
 gunicorn = "*"
 importlib-metadata = "*"
+pymysql = "*"
+flask-sqlalchemy = "*"
 
 [dev-packages]
 
